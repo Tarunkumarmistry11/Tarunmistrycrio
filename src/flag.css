@@ -1,0 +1,24 @@
+.containerStyle{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .cardStyle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 200px;
+  }
+ 
+ .flagStyle {
+    width: 100px;
+    height: 100px;
+  }
